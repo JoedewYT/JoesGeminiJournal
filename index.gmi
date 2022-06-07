@@ -1,0 +1,30 @@
+```
+░▀▀█░█▀█░█▀▀░▀░█▀▀░░░█▀▀░█▀▀░█▄█░▀█▀░█▀█░▀█▀░░░▀▀█░█▀█░█░█░█▀▄░█▀█░█▀█░█░░
+░░░█░█░█░█▀▀░░░▀▀█░░░█░█░█▀▀░█░█░░█░░█░█░░█░░░░░░█░█░█░█░█░█▀▄░█░█░█▀█░█░░
+░▀▀░░▀▀▀░▀▀▀░░░▀▀▀░░░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░░░▀▀░░▀▀▀░▀▀▀░▀░▀░▀░▀░▀░▀░▀▀▀
+```
+
+# Joe's Gemini Journal
+
+Welcome to my journal.
+I have no schedule for writing journal entries,I just write something when I feel like it.
+
+Here are some of the things I will write about on here:
+* My daily life, including school, family/friends, recent things that happened.
+* Programming stuff, game development for example.
+* Random stuff
+
+About me:
+* My name is Joe
+* I live in the Netherlands
+* for anyone interested, I my zodiac is a gemini.
+* I like programming. (mostly game development and ethical hacking)
+* I love old tech and retro gaming.
+
+```
+░▀▀█░█▀█░█░█░█▀▄░█▀█░█▀█░█░░░░░█▀▀░█▀█░▀█▀░█▀▄░▀█▀░█▀▀░█▀▀
+░░░█░█░█░█░█░█▀▄░█░█░█▀█░█░░░░░█▀▀░█░█░░█░░█▀▄░░█░░█▀▀░▀▀█
+░▀▀░░▀▀▀░▀▀▀░▀░▀░▀░▀░▀░▀░▀▀▀░░░▀▀▀░▀░▀░░▀░░▀░▀░▀▀▀░▀▀▀░▀▀▀
+```
+
+=> ./entries/jun-7-2022.gmi June 7 2022
